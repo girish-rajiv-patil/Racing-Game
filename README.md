@@ -2,9 +2,10 @@
 
 This is a remake of the classic Racing Game.
 
-![Screenshot]
+## Screenshot
+
 <table>
 <td>
-	(Screenshot.png)
+	<img src="Screenshot.png" />
 </td>
 </table>
